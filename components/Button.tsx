@@ -1,5 +1,5 @@
 import { styled } from '../stitches.config'
-
+import React from 'react'
 const Btn = styled('button', {
   color: 'red',
 })

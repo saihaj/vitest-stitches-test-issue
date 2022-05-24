@@ -1,3 +1,5 @@
+## To make it work use `jsdom` instead of `happy-dom`
+
 Unable to use `stitches` with `vitest`
 
 Steps to reproduce:
